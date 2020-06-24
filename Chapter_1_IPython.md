@@ -1,5 +1,7 @@
 # Chapter 1: IPython
 
+See [here](https://github.com/dominicwllmsn/datasciencehandbook/resources/Jupyter_Notebook_CheatSheet.pdf) for a Jupyter Notebook-specific cheatsheet.
+
 ## General help
 
 `thing?` shows docstring of `thing`.
