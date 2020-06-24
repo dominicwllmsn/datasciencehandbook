@@ -1,2 +1,2 @@
-# datasciencefromscratch
-exercises and code from data science from scratch
+# datasciencehandbook
+Notes and code examples from the python data science handbook
